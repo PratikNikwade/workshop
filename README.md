@@ -1,2 +1,3 @@
 # workshop
-This is just the starting for my github 
+
+This is my Learning phase
